@@ -2,7 +2,7 @@ from personal_information import PersonalInformation
 
 def main():
     #write your code below this line
-    nameList = []
+  nameList = []
   while(True):
     fstName = input("First name: ")
     if not fstName:
